@@ -1,0 +1,5 @@
+ArduinoPinHandleMap.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/arduinobase/src/ArduinoPinHandleMap.cpp \
+ C:/Users/engin/Desktop/LB_TeC/PI_TeC_OnOff_ert_rtw/rtwtypes.h
+
+C:/Users/engin/Desktop/LB_TeC/PI_TeC_OnOff_ert_rtw/rtwtypes.h:
